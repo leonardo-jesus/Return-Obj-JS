@@ -21,7 +21,7 @@
 ## :scroll: :arrow_right: :computer: Input
 
 <h1 align="center">
-    <img alt="input" src="./input.png" width="50%">
+    <img alt="input" src="./input.png" width="100%">
 </h1>
 
 ## :heavy_check_mark: :computer: :arrow_right: Output
